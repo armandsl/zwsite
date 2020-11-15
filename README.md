@@ -1,5 +1,5 @@
 # Status Badge
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cee334bf-5a06-4ca2-a617-1070c3af23af/deploy-status)](https://app.netlify.com/sites/zwsite/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a6304dff-69f9-4acc-8fcb-fdaec2fb2206/deploy-status)](https://app.netlify.com/sites/zwsite/deploys)
 
 # Gatsby Portfolio Website
 
