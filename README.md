@@ -1,6 +1,7 @@
 # Status Badge
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a6304dff-69f9-4acc-8fcb-fdaec2fb2206/deploy-status)](https://app.netlify.com/sites/zwsite/deploys)
 
+
 # Gatsby Portfolio Website
 
 This repo contains a static website written with [GatsbyJS](https://www.gatsbyjs.org/), integrated with content coming from [DatoCMS](https://www.datocms.com).
